@@ -1,12 +1,15 @@
 import os
 import google.generativeai as genai
 from flask import Flask, render_template, request, jsonify
+from dotenv import load_dotenv
+load_dotenv() 
+
+   
 app = Flask(__name__)
 
 # Set your API key as an environment variable (HIGHLY RECOMMENDED)
 # or directly (less secure - NEVER in production) - ONLY FOR TESTING
-
-genai.configure(api_key="YOUR_API_KEY")  # Replace with your actual key if not using env variable
+genai.configure(api_key=os.getenv("API_KEY"))  # Replace with your actual key if not using env variable
 
 def upload_to_gemini(path, mime_type=None):
     """Uploads the given file to Gemini."""
