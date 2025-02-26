@@ -26,6 +26,10 @@ Her-AI Assist leverages cutting-edge AI models to address these pressing health 
 2. **PCOS Detection**: Identifies potential PCOS cases by analyzing hormonal data, cycle irregularities, and BMI.
 3. **Breast Cancer Detection**: Uses mammographic data to classify tumors, facilitating early cancer detection.
 4. **AI Chatbot**: A chatbot powered by NLP, providing real-time, personalized responses to a wide range of women’s health inquiries.
+   
+![image](https://github.com/user-attachments/assets/0dba955a-98ad-4de9-953c-938990cbcd20)
+
+![image](https://github.com/user-attachments/assets/2ba8b89d-965f-4529-ab93-3e5bd8487f35)
 
 ## Features
 - **Pregnancy Risk Assessment**: Enter maternal health data (age, BMI, glucose levels) for pregnancy risk prediction.
@@ -240,7 +244,7 @@ The files in the `templates/` directory provide the frontend user interface for 
 If you'd like to contribute, feel free to submit pull requests or report issues. Your improvements and ideas are always welcome!
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. 
 
 ## Acknowledgements
 - **WHO** and **UCI** for providing the datasets.
