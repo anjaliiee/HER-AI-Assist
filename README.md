@@ -14,6 +14,8 @@ In many regions, especially low-income areas, women face significant barriers to
 - **Pregnancy Risks**: 830 women die every day due to pregnancy-related complications, with 94% of these deaths in low-resource settings (WHO).
 - **PCOS**: PCOS affects 10% of women of reproductive age, but 70% remain undiagnosed (PCOS Awareness Association).
 - **Breast Cancer**: Leading cause of cancer-related deaths among women. Early detection increases survival rates by 90% (BCRF).
+  ![image](https://github.com/user-attachments/assets/ed714bb8-11df-492f-89ca-34bd51c0aa69)
+
 
 ## Solution
 Her-AI Assist leverages cutting-edge AI models to address these pressing health concerns. The platform offers:
