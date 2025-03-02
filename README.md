@@ -162,7 +162,6 @@ python app.py
 ```
 Your app should now be running locally. You can access it by navigating to http://127.0.0.1:5001/ in your web browser.
 
-Here is the directory structure you requested in Markdown format:
 #FILE STRUCTURE 
 ```
 HER-AI/
